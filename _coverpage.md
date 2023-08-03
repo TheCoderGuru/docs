@@ -4,9 +4,13 @@
 
 > A easy and cool way to customize your button styling.
 
-- Fully customizable
-- Based on css classes
-- Multiple colors
+<br>
+
+## Fully customizable  
+## Based on css classes
+## Multiple colors
+
+<br>
 
 [GitHub](https://github.com/TheCoderGuru/css-buttons/)
-[Get Started](#getting-started)
+[Getting Started](quick-start.md)

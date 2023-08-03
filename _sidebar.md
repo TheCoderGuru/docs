@@ -1,4 +1,4 @@
-- [Introduction](#)
+- [Introduction](/ "CSS Buttons - Docs")
     - [Quick Start](quick-start.md)
     - [Starter Template](starter-template.md)
 - [Customization](#)

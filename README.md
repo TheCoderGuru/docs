@@ -24,7 +24,7 @@ CSS Buttons is based on a bunch of css classes that you can use to customize the
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./@thecoderguru/css-buttons/dist/style.css">
+    <link rel="stylesheet" href="../node_modules/@thecoderguru/stylify-buttons/dist/style.css">
 </head>
 <body>
     <button type="button" class="button bg-red color-white :hover-text-red :hover-border-red border-red transition border-radius">Test</button>

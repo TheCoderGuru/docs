@@ -6,13 +6,6 @@ This package is intended to be flexible to your liking hence the creation of med
 
 <br>
 
-### Medium Outline
-
-```css
-<button type="button" class="button-medium-outline color-red border-red :hover-border-red :hover-bg-red transition :hover-outline-white border-radius">Button</button> 
-```
-
-<br>
 
 ### Medium
 
@@ -22,15 +15,27 @@ This package is intended to be flexible to your liking hence the creation of med
 
 <br>
 
-### Large Outline
-
-```css
-<button type="button" class="button-large-outline color-red border-red :hover-border-red :hover-bg-red transition :hover-outline-white border-radius">Button</button> 
-```
-<br>
 
 ### Large
 
 ```css
 <button type="button" class="button-large color-red border-red :hover-border-red :hover-bg-red transition :hover-outline-white border-radius">Button</button> 
+```
+
+<br>
+
+
+### Xtra Large
+
+```css
+<button type="button" class="button-xlarge color-red border-red :hover-border-red :hover-bg-red transition :hover-outline-white border-radius">Button</button> 
+```
+
+<br>
+
+
+### Xtra Xtra Large
+
+```css
+<button type="button" class="button-xxlarge color-red border-red :hover-border-red :hover-bg-red transition :hover-outline-white border-radius">Button</button> 
 ```

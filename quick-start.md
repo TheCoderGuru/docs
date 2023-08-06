@@ -11,7 +11,7 @@
 **Install from the command line**
 
 ```bash
-$ npm install @thecoderguru/css-buttons@1.0.2
+$ npm install @thecoderguru/css-buttons@1.1.8
 ```
 
 <br>
@@ -19,5 +19,5 @@ $ npm install @thecoderguru/css-buttons@1.0.2
 **Install via package.json**
 
 ```json
-"@thecoderguru/css-buttons": "1.0.2"
+"@thecoderguru/css-buttons": "1.1.8"
 ```

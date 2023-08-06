@@ -6,7 +6,6 @@
   - [Colors](colors.md "CSS Buttons - Colors")
   - [Hover State](# "CSS Buttons - Hover State")
     - [Hover State Text](hover-state-text.md "CSS Buttons - Hover State Text")
-    - [Hover State Text Outline](hover-state-text-outline.md "CSS Buttons - Hover State Text Outline")
     - [Hover State Border](hover-state-border.md "CSS Buttons - Hover State Border")
     - [Hover State Background Color](hover-state-background.md "CSS Buttons - Hover State Background Color")
   - [Transitions](transitions.md "CSS Buttons - Transitions")

@@ -19,4 +19,5 @@ blue: blue;
 green: green;
 black: black;
 fuchsia: fuchsia;
+transparent: none;
 ```

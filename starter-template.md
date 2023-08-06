@@ -11,7 +11,7 @@ Here is a template to get you up and running with the package, just copy and pas
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="./@thecoderguru/css-buttons/dist/style.css">
+    <link rel="stylesheet" href="./node_modules/@thecoderguru/stylify-buttons/dist/style.css">
 </head>
 <body>
     <button type="button" class="button-large-outline color-red border-red :hover-bg-red :hover-border-red :hover-outline-white transition radius-rounded">Test</button>

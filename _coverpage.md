@@ -12,5 +12,5 @@
 
 <br>
 
-[GitHub](https://github.com/TheCoderGuru/css-buttons/)
+[GitHub](https://github.com/TheCoderGuru/stylify-buttons/)
 [Getting Started](quick-start.md)

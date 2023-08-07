@@ -1,6 +1,6 @@
 ![logo](./logo.png)
 
-# css-buttons
+# stylify-buttons
 
 > A easy and cool way to customize your button styling.
 

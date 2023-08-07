@@ -1,18 +1,18 @@
 
-# CSS Buttons
+# Stylify Buttons
 
 
 > focus on development and not too much on design 
 
-## What is CSS Buttons
+## What is Stylify Buttons
 
-CSS Buttons is based on a bunch of css classes that you can use to customize the style of your buttons in html markup.
+Stylify Buttons is based on a bunch of css classes that you can use to customize the style of your buttons in html markup.
 
 
 <br>
 
 
-## Sample HTML Markup with CSS Buttons
+## Sample HTML Markup with Stylify Buttons
 
 
 <br>
